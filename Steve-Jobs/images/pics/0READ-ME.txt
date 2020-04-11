@@ -1,0 +1,82 @@
+{ Map for (name pictures) and (paragraph) }
+
+	{	
+	 -----> num  = "picture name"
+Notice
+	 -----> else = "paragraph for picture"
+	}
+
+
+1- 1957 - Paul Jobs and his young son Steve, age 2
+2- 1970 - Steve at McCollum’s Electronics 1 class, age 15
+3- 1972 - With the Swab job in high school
+4- 1975 - At the All-One-Farm commune in Oregon. Robert Friedland can be seen in the red shirt.
+5- 1975 - Steve with Woz in the Jobs household, assembling Apple I computers
+6- 1976 - Woz, Jobs and an Apple I
+7- 28 Aug 1976 - At the Personal Computing Festival
+8- 1977 - Steve Jobs and Mike Markkula with a cheque symbolising his investment in Apple
+9- 1977 - Steve and Woz at an Apple II warehouse
+10- 17 Apr 1977 - Steve Jobs by the Apple stand at the West Coast Computer Faire
+11- Jun 1978 - Steve and his newborn daughter Lisa
+12- 1980 - Steve Jobs poses with Apple II for an ad campaign
+13- 16 Dec 1982 - Steve Jobs having tea in his first house in Los Gatos, CA
+14- 1983 - Steve at the IBM HQ ;)
+15- 1983 - Steve Jobs with the LISA computer
+16- 1984 - Steve Jobs with Lee Clow
+17- 1984 - Steve Jobs and Apple CEO John Sculley by the Mac team's grand piano
+18- 1984 - Steve poses with the Macintosh team outside their office
+19- 1984 - Jobs and Sculley
+20- 30 Jan 1984 - Steve Jobs poses with Macintosh on a NY press tour
+21- 6 Feb 1984 - Steve Jobs poses with Macintosh while Sculley rests on a LISA
+22- 5 Jul 1984 - Steve with his mentor, PR specialist John McKenna
+23- 2 May 1985 - Steve Jobs and a yound Bill Gates at the Excel introduction - Excel was developed for the Macintosh originally
+24- 21 Sep 1985 - Steve Jobs at his Woodside mansion after his resignation from Apple
+25- 30 Sep 1985 - Jobs and the NeXT co-founders outside the Jackling mansion
+26- 1986 - Steve with NeXT chairmen Ross Perot (left) and John Patrick Crecine
+27- 1986 - Steve at his NeXT office, pouring over designs of the logo
+28- 1986 - The NeXT founding team - From left to right and top to bottom: Rich Page, Steve Jobs, George Crow, Dan’l Lewin, Bud Tribble and Susan Barnes
+29- 1 Nov 1987 - Steve Jobs at a NeXT retreat. The man on the left holds a prototype NeXT Cube
+30- 1 Oct 1988 - Steve Jobs poses with a NeXT computer
+31- 12 Oct 1988 - Steve Jobs at the NeXT Cube introduction
+32- 24 Oct 1988 - Steve Jobs holds a press conference after the NeXT Cube introduction
+33- 1989 - Steve Jobs with his daughter Lisa
+34- 30 Mar 1989 - Steve Jobs and NeXT COO Peter van Cuylenburg
+35- 13 Jun 1989 - Steve and Canon representatives at the NeXT factory, after signing an investment deal in NeXT
+36- 15 Sep 1990 - Steve Jobs poses with the new NeXT Station
+37- 18 Mar 1991 - Steve Jobs' wedding with Laurene Powell, presided over by Kobun Chino
+38- 1 May 1993 - Steve Jobs with an Intel PC running NeXTstep
+39- 1995 - Steve Jobs plays with his first child, Reed Jobs
+40- 1995 - Jobs under the Pixar icon Luxo
+41- 1995 - Steve Jobs poses with Disney CEO Michael Eisner (middle, dark suit) and Pixar's Ed Catmull (left-most) and John Lasseter (middle, grey suit)
+42- 20 Dec 1996 - Steve Jobs at a press event with Apple CEO Gil Amelio announcing the NeXT acquisition
+43- 7 Jan 1997 - Steve Wozniak, Steve Jobs and Apple CEO Gil Amelio at the Macworld keynote
+44- 6 Aug 1997 - Steve Jobs introduces Bill Gates and the Microsoft deal at Macworld NY 1997
+45- 1998 - Steve Jobs with a blue iMac
+46- 6 Jan 1998 - Steve Jobs in front of a Think Different ad featuring Pablo Picasso, Macworld SF 1998
+47- 6 May 1998 - Steve Jobs introducing iMac
+48- 21 Jul 1999 - Steve Jobs after the first iBook introduction, Macworld NY 1999
+49- 19 Jul 2000 - Jobs and a Power Mac G4 Cube
+50- 15 May 2001 - Steve Jobs holds a press conference introducing Apple Retail Stores
+51- 21 May 2001 - Steve Jobs evangelizing Mac OS X at the WWDC 2001
+52- 23 Oct 2001 - Steve Jobs after the iPod introduction
+53- 2002 - Steve Jobs poses with iMac G4 and Apple's top execs: Jony Ive, Avie Tevanian, Jon Rubinstein and Sina Tamaddon
+54- 16 Oct 2003 - Introducing the Windows iTunes Store
+55- 6 Jan 2004 - Steve Jobs introducing the iPod mini
+56- 26 Jul 2004 - On the cover of Newsweek
+57- 11 Jan 2005 - Steve Jobs introduces iPod shuffle
+58- 6 Jun 2005 - Steve Jobs with Intel CEO Paul Otellini at WWDC 2005
+59- 12 Jun 2005 - Steve Jobs delivering the commencement address to Stanford in 2005
+60- 12 Oct 2005 - Steve Jobs introduces iPod video
+61- 24 Jan 2006 - Ed Catmull, Steve Jobs, Bob Iger and John Lasseter announcing the Pixar-Disney merger
+62- 19 May 2006 - In New York at the Apple Store 5th Avenue opening
+63- 9 Jan 2007 - Portrait with iPhone, 2007
+64- 9 Jan 2007 - The iPhone introduction, Macworld
+65- 15 Jan 2008 - Jobs unveiling MacBook Air
+66- 6 Mar 2008 - Steve Jobs unveils the terms of the iOS App Store
+67- 9 Sep 2009 - Steve Jobs smiles as the crowd cheers his return after his liver transplant
+68- 27 Jan 2010 - Steve Jobs at the iPad introduction
+69- 27 Jan 2010 - Steve Jobs at the iPad introduction
+70- 7 Jun 2010 - Steve Jobs presents iPhone 4
+71- 2 Mar 2011 - Apple at the intersection of Technology and Liberal Arts, a favorite of Steve Jobs
+72- 6 Jun 2011 - Steve and his wife Laurene after the iCloud introduction, his last keynote
+

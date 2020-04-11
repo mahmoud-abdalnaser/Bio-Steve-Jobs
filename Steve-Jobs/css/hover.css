@@ -1,0 +1,180 @@
+/*
+	*ALL Hovers At Website Founds Here
+	*ALL -Focus At Website Founds Here
+	*ALL -------------Transitions Here
+*/
+
+/******** Section-1 ********/
+
+.header:hover{background:#212121;}
+.header h1:hover{color:#f13a11;}
+.header a:hover{color:#f13a11;}
+.title button:hover{background:#f13a11;border-color:#fff;}
+.title button:focus{background:#f13a11;border-color:#fff;}
+
+/******** Section-1 ********/
+
+/***************************/
+
+/******** Section-2 ********/
+.card:hover{
+	background:transparent;color:#fff;
+	transform:scale(.9);
+}
+.card:hover img{transform:scale(1.2,1.2);opacity:1;}
+.card button:hover{
+	border:4px solid #fff;
+	color:#ddd;width:200px;
+	background:#f13a11;
+	text-shadow:0 0 13px #fff;
+}
+/******** Section-2 ********/
+
+/***************************/
+
+/******** Biography ********/
+.bio button:hover{
+	border:4px solid #eee;
+	color:#ddd;width:300px;
+	background:#f13a11;
+}
+/******** Biography ********/
+
+/***************************/
+
+/********** Persona ********/
+.per button:hover{
+	border:4px solid #eee;
+	color:#ddd;width:300px;
+	background:#f13a11;
+}
+/********** Persona ********/
+
+/***************************/
+
+/********* Pictures ********/
+.pic .img-box:hover{
+	transform:rotate(-2deg)
+}
+.pic .img-box .info:hover{
+	height:100%;
+	background:#313131
+}
+.content .img-box img:hover{
+	transform:scale(1.1,1.1);
+	opacity:1;
+}
+.pic .img-box .info:hover h3{
+	border:3px solid #eee;
+	color:#eee;	margin:20px auto;
+	border-radius:50%;padding:5px;
+}
+.pic button:hover{
+	border:4px solid #eee;
+	color:#ddd;width:300px;
+	background:#f13a11;
+}
+/********* Pictures ********/
+
+/***************************/
+
+/********** Quotes *********/
+.qut .content .qut-box:hover{
+	transform:scale(1,1);
+	opacity:1;
+}
+.qut .content .qut-box button:hover{
+	border:4px solid #eee;
+	color:#ddd;width:200px;
+	background:#f13a11;
+}
+.qut a button:hover{
+	border:4px solid #eee;
+	color:#ddd;width:300px;
+	background:#f13a11;
+}
+/********** Quotes *********/
+
+/***************************/
+
+/********* Our-Team ********/
+.team .card-t:hover{box-shadow:0 0 10px #fff;}
+.team .card-t:hover .img-bx{opacity:1;}
+.team .card-t:hover .img-bx img{
+	transform:scale(1.1,1.1);
+	opacity:.9;
+}
+.team .card-t:hover .content{
+	transform:scale(1);
+	opacity:1
+}
+.team .card-t:hover .content ul{
+	transform:translatey(0);
+	opacity:1
+}
+.team .card-t .content ul li img:hover{
+	transform:scale(1.2);
+	background:none;
+}
+.team a button:hover{
+	border:4px solid #95b6e1;
+	color:#ddd;width:300px;
+	background:#2382fd;
+}
+/********* Our-Team ********/
+
+/***************************/
+
+/*********Contact Us********/
+.contact .login input[type="text"]:focus{
+	width:80%;opacity:1;text-align:center
+}
+.contact .login input[type="password"]:focus{
+	width:80%;opacity:1;text-align:center
+}
+.contact .login input[type="submit"]:hover{
+	opacity:1;color:#fff;
+	border-color:#eee;
+}
+.contact .login input[type="reset"]:hover{
+	opacity:1;color:#fff;
+	border-color:#eee;
+}
+.contact .sign-up input[type="text"]:focus{
+	width:80%;opacity:1;text-align:center
+}
+.contact .sign-up input[type="password"]:focus{
+	width:80%;opacity:1;text-align:center
+}
+.contact .sign-up input[type="submit"]:hover{
+	opacity:1;color:#fff;
+	border-color:#eee;
+}
+.contact .sign-up input[type="reset"]:hover{
+	opacity:1;color:#fff;
+	border-color:#eee;
+}
+/*********Contact Us********/
+
+/***************************/
+
+/*********  Footer  ********/
+.footer .social ul li:hover img{
+	background:none;
+	transform:scale(1);
+	opacity:1;
+}
+.footer .more ul li:hover{
+	transform:scale(1)
+}
+.footer .more ul li:hover a{
+	color:#79a1d5
+}
+.footer h6 a:hover{/*There is a Hover Here*/
+	color:#ecd218;
+/*********  Footer  ********/
+
+
+
+
+
